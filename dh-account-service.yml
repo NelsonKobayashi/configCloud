@@ -1,0 +1,4 @@
+server:
+  port: $(PORT:8889)
+  
+  message: configuração padrão com spring cloud config.
